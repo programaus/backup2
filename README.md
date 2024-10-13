@@ -1,64 +1,11 @@
-> [!NOTE]
-> If you find our repository useful don't forget to star!
+DF - updates every 5 minutes (yes, during runtime... I think??)
+F - Normal
+SF - loads from server
 
-<h3 align="center">
-  <img src="assets/timeless.gif" width="256" alt="Playboi Carti">
-</h3>
+F - tru/nuh
+Int - integer (e.x. 5 stepfathers)
+String - "Skibi Toilet Figma Rizler"
 
-<h1 align="center">#RBXFLAG$</h1>
-
-<h4 align="center">Join our Discord Server to contribute & expand our list (We need you)</h4>
-<h5 align="center">https://discord.gg/HNe7fzR9xg</h5>
-
-<h3 align="center">
-  <img src="https://media.discordapp.net/attachments/1272692993211498548/1290182172526903388/im_a_loser.jpg?ex=66fb8748&is=66fa35c8&hm=14a1da71b1da4fc319d0e778bcef515ede730ceddf2583d84740fa9442526447&" width="256" alt="how to be a loser in 2024">
-</h3>
-
-🤓🤓
-
-<h4 align="center">Join our Roblox group</h4>
-<h5 align="center">https://www.roblox.com/groups/34911020/FIVE55</h5>
-
-<h4 align="center">Repository Discussions</h4>
-<h5 align="center">https://github.com/espresso-soft/rbxflags/discussions</h5>
-
-<h4 align="center">PROMOTE OUR CLEAN LIST TO NORMAL USERS</h4>
-<h5 align="center">https://github.com/fastvariable/nvrmaintain</h5>
-
-> [!CAUTION]
-> **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
-
-#### Version: `10.10.24` `F R E A K`
-* **224 Currently Listed**
-* **`Noclip 5`**
-* **`Noclip 6`**
-* **`Delayed Animations`**
-* **`Bouncy`**
-* **`Increased Grass Motion` `No Grass Motion`**
-* **`Low Gravity`**
-* **`Upside Down while slowly being sent to heaven`**
-* **`Slow Walk + Low Gravity`**
-* **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
-
-## List Meanings
-**✨ - sOmethin rare hArd to get > like a holy treAsure its dat one thIng you gotta hAve could be a shoe a cAr or a piece of arT + everybody wAnts it but only a fEw get it = it’s dat uLtimate find ya feel me?**
-
-## Bloxstrap How to Use:
-1. **Open** the **[Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap)**.
-2. **Navigate** to `Fast Flags` >> `Fast Flags Editor` >> `Add New` >>  `Import Json`.**
-3. **Paste** in the **JSON**.
-4. **Save** and your good to go!
-
-<img src="/assets/tutorial260.gif" width="750"/>
-
-## Normal Roblox Bootstrapper How to Use:
-###### You can also do Roblox Studio
-1. **Navigate** to your **Roblox Installation directory**. Typically found at `%localappdata%\Roblox\Versions\` or `C:\Program Files (x86)\Roblox\Versions`.**
-2. **Identify** the folder `version-xxxxxxxxxxxxxxxx` ~~containing `RobloxPlayerBeta.exe`~~ **You can do this for Roblox Studio too.**
-3. **Create a new folder named `ClientSettings`. Inside this folder, **add** a file `ClientAppSettings.json`.**
-4. **Paste** the **JSON** into `ClientAppSettings.json`. (**You can utilize ChatGPT to format multiple JSONs for clarity if needed**)
-5. **Save** and you're good to go!
-###### Do note that after roblox updates you have to do this process again
 
 [Watch a Video Tutorial](https://streamable.com/rk5an6)
 
@@ -75,44 +22,6 @@
 7. Long-press the **Roblox APK** file, choose **Sign File**, and click **OK** with default settings.
 8. **Install the modified APK.**
 ###### This process must be repeated whenever a new Roblox build is released, as the modifications will not carry over to new updates.
-
-## How to Use _PlaceFilter
-1. **Add** `_PlaceFilter` **after** the **Fast Flag name**.
-2. **Add** a **semicolon after** the Value (`;`). **Examples**: `True;`, `1;`.**
-3. **Include** a **Place ID after** the **semicolon**. **Examples**: `True;4483381587`, `1;4483381587`.
-4. Your configuration is **complete**!**
-
-###### This is no method is no longer available on Bloxstrap because pizzaboxer a stupid Int Bool stupid ass check
-
-# List Navigation
-* **[Rendering](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#rendering)**
-* **[Lightning Technologies](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#lightning-technologies)**
-* **[Graphical](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#graphical-settings)**
-* **[Quality of Life](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#quality-of-life)**
-* **[UI](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#user-interfacevisuals)**
-* **[UI X](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#user-interfacevisuals-experimental)**
-* **[Audio](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#audio-related)**
-* **[Physics](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#physics-abusive)**
-* **[Abusive Visuals](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#abusive-visuals)**
-* **[Abusive Game Presets](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#abusive-game-specific-presets)**
-* **[lol](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#lol)**
-* **[Debug](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#debug)**
-* **[Links](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#links)**
-
-<img src="assets/bitdancer.png" width="888"/>
-
-<div align="center">
-
-<b>
-I've been up, baby<br>
-Heavy reminiscin'<br>
-Heavy on the missing you<br>
-Wish it was different than what it was
-</b>
-
-</div>
-
-<h5 align="center">•</h5>
 
 <h1 align="center">Rendering API</h1>
 
